@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodriggoAlves&show_icons=true&theme=dracula)
 
-## Tecnologias que utilizo no meu dia a dia 
+## Tecnologias que utilizo no meu dia a dia ✌️
 
 
 <div style="display: inline_block"><br/>
